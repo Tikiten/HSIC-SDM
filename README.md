@@ -3,7 +3,7 @@ The code for "Fortifying Centers and Edges: Multidomain Feature Learning Meets H
 # Installation
 Install Pytorch 1.11.0 with Python 3.7.7.
 # Paper
-Fortifying Centers and Edges: Multidomain Feature Learning Meets Hyperspectral Image Classification
+Fortifying Centers and Edges: Multidomain Feature Learning Meets Hyperspectral Image Classification.  
 Please kindly cite our paper if you find it's helpful in your work. Thank you!
 # Citation
 ```
